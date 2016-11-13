@@ -1,55 +1,55 @@
 /* Ionic Overrides
 ==================================*/
-* {
-    font-family: "RobotoDraft","Roboto","Helvetica Neue", "Segoe UI", sans-serif;
-}
 
+* {
+    font-family: "RobotoDraft", "Roboto", "Helvetica Neue", "Segoe UI", sans-serif;
+}
 .rounded {
     border-radius: 4px;
 }
-
-a { cursor: pointer; }
-
-.has-header.expanded {  /* Expanded modifier */
-  top: 76px;
+a {
+    cursor: pointer;
 }
-
+.has-header.expanded {
+    /* Expanded modifier */
+    top: 76px;
+}
 
 /* Bar Overrides
 ==================================*/
+
 .bar {
     border-bottom: none;
     padding: 0;
 }
 .bar .button {
-  min-height: 44px;
-  min-width: 44px;
-  max-width: 48px;
-  margin-bottom: 0;
-  max-height: 44px;
-  width: 48px;
+    min-height: 44px;
+    min-width: 44px;
+    max-width: 48px;
+    margin-bottom: 0;
+    max-height: 44px;
+    width: 48px;
 }
 .bar .title + .buttons.buttons-right {
     right: 0;
     top: 0;
 }
 
-
 /* Title Overrides
 ==================================*/
+
 .title-left,
 .title.title-left {
-  left: 48px;
+    left: 48px;
 }
-
 .title-right,
 .title.title-right {
-  left: 48px;
+    left: 48px;
 }
-
 
 /* Background Colors
 ==================================*/
+
 .positive-bg,
 .button-positive,
 .bar .button-positive,
@@ -641,6 +641,7 @@ a { cursor: pointer; }
 
 /* Text Colors
 ==================================*/
+
 .positive,
 .positive *,
 *.positive,
@@ -872,17 +873,9 @@ a { cursor: pointer; }
 *.dark:active {
     color: #444;
 }
-
-
-
-
-
-
-
 .light-border {
     border-color: #ddd;
 }
-
 .navbar-default .navbar-nav > li > a {
     margin: 0;
     padding-right: 26px;
@@ -892,14 +885,12 @@ a { cursor: pointer; }
     opacity: 1;
 }
 
-
-
 /* Mid-Bar
 ==================================*/
+
 .mid-bar {
     padding: 16px;
 }
-
 .mid-bar h1,
 .mid-bar h2,
 .mid-bar h3,
@@ -909,15 +900,14 @@ a { cursor: pointer; }
     color: #fff;
     margin-bottom: 5px;
 }
-
 .mid-bar p {
     color: rgba(255, 255, 255, 0.5);
     margin-bottom: 0;
 }
 
-
 /* Item
 ==================================*/
+
 .item-avatar,
 .item-avatar .item-content,
 .item-avatar-left,
@@ -925,26 +915,21 @@ a { cursor: pointer; }
 .card > .item-avatar {
     padding-left: 95px;
 }
-
 .item,
 .item-complex .item-content,
 .item-radio .item-content {
     background-color: transparent;
 }
-
 .dark-bg h2,
 .item.dark-bg h2 {
     color: #fff;
 }
-
 .tabs-striped .tabs {
     box-shadow: 0px 2px 5px 0 rgba(0, 0, 0, 0.26);
 }
-
 .bar .button.button-clear {
     color: #fff;
 }
-
 .bar .button.button-icon .icon:before,
 .bar .button.button-icon.icon-left:before,
 .bar .button.button-icon.icon-right:before,
@@ -952,42 +937,39 @@ a { cursor: pointer; }
     vertical-align: top;
     font-size: 24px;
 }
-
 .menu {
     background-color: transparent;
 }
-
 .button-icon.button.active,
 .button-icon.button.activated {
     opacity: initial;
 }
 
-
 /* Popover
 ==================================*/
+
 .popover {
     opacity: 0;
     position: absolute;
     right: 8px;
-    transform: translate(50%, -50%) scale(0,0);
+    transform: translate(50%, -50%) scale(0, 0);
     transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
     top: 8px;
 }
 .popover.ng-enter {
     opacity: 1;
-    transform: translate(0, -14px) scale(1,1);
+    transform: translate(0, -14px) scale(1, 1);
     transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
-
 .popover.ng-leave {
     opacity: 0;
-    transform: translate(50%, -50%) scale(0,0);
+    transform: translate(50%, -50%) scale(0, 0);
     transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
-
 
 /* Button
 ==================================*/
+
 .button {
     overflow: hidden !important;
 }

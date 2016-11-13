@@ -1,4 +1,3 @@
-
 /* Item
 ==================================*/
 
@@ -13,16 +12,13 @@
     right: 16px;
 }
 
-/*
-.list .item.item-icon-right {
-    padding-right: 60px;
+.item-thumbnail-left > img:first-child,
+.item-thumbnail-left .item-image,
+.item-thumbnail-left .item-content > img:first-child,
+.item-thumbnail-left .item-content .item-image {
+    border-radius: 50%;
 }
-*/
-
-.item-thumbnail-left > img:first-child, .item-thumbnail-left .item-image, .item-thumbnail-left .item-content > img:first-child, .item-thumbnail-left .item-content .item-image {
-	border-radius: 50%;
-}
-
 .tab-item.activated {
-	height: calc(100% + 3px); /* Stretch */
+    height: calc(100% + 3px);
+    /* Stretch */
 }

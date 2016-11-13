@@ -1,4 +1,3 @@
-
 /* Bar - Header - Expanded
 ==================================*/
 
@@ -6,14 +5,12 @@
 .bar.bar-header.expanded {
     height: 75px;
 }
-
 .expanded.bar.bar-header .title,
 .bar.bar-header.expanded .title {
     bottom: 0;
     top: initial;
     padding-left: 16px;
 }
-
 .expanded .bar.bar-header .title.fab-left,
 .bar.bar-header.expanded .title.fab-left {
     bottom: 0;
@@ -73,12 +70,13 @@
     -webkit-transition: all 2s cubic-bezier(0.55, 0, 0.1, 1);
     transition: all 2s cubic-bezier(0.55, 0, 0.1, 1);
 }
-
-.expanded .bar.bar-header .title, .bar.bar-header.expanded .title {
+.expanded .bar.bar-header .title,
+.bar.bar-header.expanded .title {
     bottom: 0;
     left: 42px !important;
     top: initial;
 }
-.expanded.has-header-fab-left .bar.bar-header .title, .bar.bar-header.expanded.has-header-fab-left .title {
+.expanded.has-header-fab-left .bar.bar-header .title,
+.bar.bar-header.expanded.has-header-fab-left .title {
     left: 76px !important;
 }

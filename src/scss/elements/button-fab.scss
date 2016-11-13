@@ -20,7 +20,6 @@
     -webkit-transition-property: -webkit-transform, box-shadow;
     transition-property: transform, box-shadow;
 }
-
 .button.button-fab.button-fab-bottom-right,
 .bar .button.button-fab.button-fab-bottom-right {
     top: auto;
@@ -29,7 +28,6 @@
     left: auto;
     position: absolute;
 }
-
 .button.button-fab.button-fab-bottom-left,
 .bar .button.button-fab.button-fab-bottom-left {
     top: auto;
@@ -38,7 +36,6 @@
     left: 16px;
     position: absolute;
 }
-
 .button.button-fab.button-fab-top-right,
 .bar .button.button-fab.button-fab-top-right {
     top: 32px;
@@ -47,7 +44,6 @@
     left: auto;
     position: absolute;
 }
-
 .button.button-fab.button-fab-top-left,
 .bar .button.button-fab.button-fab-top-left {
     top: 32px;
@@ -62,26 +58,23 @@
 .bar .button.button-fab.button-fab-top-right.expanded {
     top: 48px;
 }
-
 .button.button-fab i,
 .bar .button.button-fab i {
     font-size: 2.5rem;
     margin-top: 0;
 }
-
 .button.button-fab.mini,
 .bar .button.button-fab.mini {
     width: 40px;
     height: 40px;
 }
-
 .button.button-fab.mini i,
 .bar .button.button-fab.mini i {
     font-size: 2rem;
 }
 
-
 /* Motion */
+
 .motion {
     -webkit-transition: all 0.5s ease-out;
     transition: all 0.5s ease-out;
@@ -94,13 +87,6 @@
     -webkit-transition: all 0.1s ease-out !important;
     transition: all 0.1s ease-out !important;
 }
-
-
-
-
-
-
-
 .spin-back {
     -webkit-backface-visibility: hidden !important;
     backface-visibility: hidden !important;
@@ -133,7 +119,6 @@
     -webkit-transition: all 0.3s ease-out !important;
     transition: all 0.3s ease-out !important;
 }
-
 .button.button-fab.button-fab-top-left.motion {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -166,20 +151,6 @@
     -webkit-transition: all 0.1s ease-out;
     transition: all 0.1s ease-out;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .spin {
     -webkit-backface-visibility: hidden !important;
     backface-visibility: hidden !important;

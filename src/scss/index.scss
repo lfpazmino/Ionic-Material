@@ -7,7 +7,7 @@
 
     // main variables
         "variables/colors.scss",
-        "variables/utilities.scss",
+        "variables/sizes.scss",
 
     // directives
         "directives/md-label.scss",
@@ -30,6 +30,9 @@
         "elements/motion-elements.scss",
         // "elements/tabs.scss",
 
+    // helpers
+        "helpers/utilities.scss",
+
     // motion
         "motion/blinds.scss",
         "motion/pan-in-left.scss",
@@ -40,5 +43,5 @@
 
     // overrides
         "overrides/ink.scss",
-        "overrides/ionic.scss",
+        "overrides/ionic.scss"
         //"overrides/ionic-colors.scss"

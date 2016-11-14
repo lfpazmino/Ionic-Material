@@ -1,17 +1,17 @@
 {
-  "name": "ion-material",
-  "version": "0.0.1",
-  "authors": [
+    "name": "ion-material",
+    "version": "1.0.0",
+    "authors": [
     "Luis Pazmino",
     "Rai Butera",
     "Zach Fitzgerald"
   ],
-  "description": "Ionic Material - Material Design for the Ionic Framework (enhanced with global variables)",
-  "main": [
+    "description": "Ionic Material - Material Design for the Ionic Framework (enhanced with global variables)",
+    "main": [
     "dist/ionic.material.css",
     "dist/ionic.material.js"
   ],
-  "keywords": [
+    "keywords": [
     "Ionic",
     "Material",
     "Design",
@@ -21,10 +21,10 @@
     "Apps",
     "Mobile"
   ],
-  "license": "MIT",
-  "homepage": "http://ionicmaterial.com",
-  "private": false,
-  "ignore": [
+    "license": "MIT",
+    "homepage": "http://ionicmaterial.com",
+    "private": false,
+    "ignore": [
     "bower_components",
     "demo",
     "docs",
@@ -32,8 +32,8 @@
     "index.html",
     "node_modules"
   ],
-  "dependencies": {
-    "ionic": "~1.0.0",
-    "waves": "0.6"
-  }
+    "dependencies": {
+        "ionic": "~1.0.0",
+        "waves": "0.6"
+    }
 }

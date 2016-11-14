@@ -1,20 +1,20 @@
 /* jshint esnext: true, asi: true */
-const _ = require('lodash');
-const gulp = require('gulp');
-const minifycss = require('gulp-minify-css');
-const rename = require('gulp-rename');
-const concat = require('gulp-concat');
-const uglify = require('gulp-uglify');
-const livereload = require('gulp-livereload');
-const sass = require('gulp-sass');
-const sourcemaps = require('gulp-sourcemaps');
+const _           = require('lodash');
+const gulp        = require('gulp');
+const minifycss   = require('gulp-minify-css');
+const rename      = require('gulp-rename');
+const concat      = require('gulp-concat');
+const uglify      = require('gulp-uglify');
+const livereload  = require('gulp-livereload');
+const sass        = require('gulp-sass');
+const sourcemaps  = require('gulp-sourcemaps');
 const gulpWebpack = require('gulp-webpack');
-const webpack = require('webpack');
+const webpack     = require('webpack');
 
 var connect = require('gulp-connect');
 
 const distPath = './dist/';
-var minify = false;
+var minify = true;
 
 gulp.task('js', function () {
     var src = [

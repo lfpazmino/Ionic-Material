@@ -765,7 +765,12 @@ return /******/ (function(modules) { // webpackBootstrap
 	                    var delayValue = offset / speed / options.finishDelayThrottle;
 	                    var delay = parseFloat(delayValue).toFixed(2);
 	                }
-	                animateSlideInRightDom[0].className += ' done';
+
+	                var animateSlide = animateSlideInRightDom[0];
+
+	                if(animateSlide) {
+	                    animateSlide.className += ' done';
+	                }
 
 	            }, speed * options.finishSpeedPercent);
 

@@ -4,6 +4,11 @@
 // scss version
 
 @import
+
+    // main variables
+        "variables/colors.scss",
+        "variables/utilities.scss",
+
     // directives
         "directives/md-label.scss",
 
@@ -23,9 +28,7 @@
         "elements/mask.scss",
         "elements/menu.scss",
         "elements/motion-elements.scss",
-
-    // helpers
-        "helpers/utilities.scss",
+        // "elements/tabs.scss",
 
     // motion
         "motion/blinds.scss",
@@ -37,4 +40,5 @@
 
     // overrides
         "overrides/ink.scss",
-        "overrides/ionic.scss";
+        "overrides/ionic.scss",
+        //"overrides/ionic-colors.scss"

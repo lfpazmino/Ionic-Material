@@ -1,11 +1,12 @@
 {
-  "name": "ionic-material",
-  "version": "0.4.2",
+  "name": "ion-material",
+  "version": "0.0.1",
   "authors": [
+    "Luis Pazmino",
     "Rai Butera",
     "Zach Fitzgerald"
   ],
-  "description": "Ionic Material - Material Design for the Ionic Framework",
+  "description": "Ionic Material - Material Design for the Ionic Framework (enhanced with global variables)",
   "main": [
     "dist/ionic.material.css",
     "dist/ionic.material.js"

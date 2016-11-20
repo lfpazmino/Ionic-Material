@@ -1,47 +1,44 @@
 @charset "UTF-8";
 
 // Ionic Material
-// scss version
+// version
 
 @import
+        "variables",
 
-    // main variables
-        "variables/colors.scss",
-        "variables/sizes.scss",
+        // directives
+        "directives/md-label",
 
-    // directives
-        "directives/md-label.scss",
+        // elements
+        "elements/bar-header-expanded",
+        "elements/bar",
+        "elements/button-bar",
+        "elements/button-fab",
+        "elements/button-floating",
+        "elements/button",
+        "elements/card",
+        "elements/hero",
+        "elements/item",
+        "elements/list",
+        "elements/loading",
+        "elements/login",
+        "elements/mask",
+        "elements/menu",
+        "elements/motion-elements",
+        // "elements/tabs",
 
-    // elements
-        "elements/bar-header-expanded.scss",
-        "elements/bar.scss",
-        "elements/button-bar.scss",
-        "elements/button-fab.scss",
-        "elements/button-floating.scss",
-        "elements/button.scss",
-        "elements/card.scss",
-        "elements/hero.scss",
-        "elements/item.scss",
-        "elements/list.scss",
-        "elements/loading.scss",
-        "elements/login.scss",
-        "elements/mask.scss",
-        "elements/menu.scss",
-        "elements/motion-elements.scss",
-        // "elements/tabs.scss",
+        // helpers
+        "helpers/utilities",
 
-    // helpers
-        "helpers/utilities.scss",
+        // motion
+        "motion/blinds",
+        "motion/pan-in-left",
+        "motion/ripple",
+        "motion/slide-fade-in",
+        "motion/slide-in-right",
+        "motion/slide-up",
 
-    // motion
-        "motion/blinds.scss",
-        "motion/pan-in-left.scss",
-        "motion/ripple.scss",
-        "motion/slide-fade-in.scss",
-        "motion/slide-in-right.scss",
-        "motion/slide-up.scss",
-
-    // overrides
-        "overrides/ink.scss",
-        "overrides/ionic.scss"
-        //"overrides/ionic-colors.scss"
+        // overrides
+        "overrides/ink",
+        "overrides/ionic"
+        //"overrides/ionic-colors"

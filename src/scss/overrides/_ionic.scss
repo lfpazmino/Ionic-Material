@@ -78,8 +78,8 @@ a {
 .button-bar-positive.activated,
 .bar-positive.activated,
 .positive-border.activated {
-    background-color: $material-positive;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-positive !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .positive-900-bg,
@@ -110,8 +110,8 @@ a {
 .button-bar-positive-900.activated,
 .bar-positive-900.activated,
 .positive-900-border.activated {
-    background-color: $material-positive-900;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-positive-900 !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .positive-100-bg,
@@ -142,8 +142,8 @@ a {
 .button-bar-positive-100.activated,
 .bar-positive-100.activated,
 .positive-100-border.activated {
-    background-color: $material-positive-100;
-    color: $material-light-bg-dark-text-primary;
+    background-color: $material-positive-100 !important;
+    color: $material-light-bg-dark-text-primary !important;
 }
 
 .calm-bg,
@@ -174,8 +174,8 @@ a {
 .button-bar-calm.activated,
 .bar-calm.activated,
 .calm-border.activated {
-    background-color: $material-calm;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-calm !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .calm-900-bg,
@@ -206,8 +206,8 @@ a {
 .button-bar-calm-900.activated,
 .bar-calm-900.activated,
 .calm-900-border.activated {
-    background-color: $material-calm-900;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-calm-900 !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .calm-100-bg,
@@ -238,8 +238,8 @@ a {
 .button-bar-calm-100.activated,
 .bar-calm-100.activated,
 .calm-100-border.activated {
-    background-color: $material-calm-100;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-calm-100 !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .royal-bg,
@@ -270,8 +270,8 @@ a {
 .button-bar-royal.activated,
 .bar-royal.activated,
 .royal-border.activated {
-    background-color: $material-royal;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-royal !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .royal-900-bg,
@@ -302,8 +302,8 @@ a {
 .button-bar-royal-900.activated,
 .bar-royal-900.activated,
 .royal-900-border.activated {
-    background-color: $material-royal-900;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-royal-900 !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .royal-100-bg,
@@ -334,8 +334,8 @@ a {
 .button-bar-royal-100.activated,
 .bar-royal-100.activated,
 .royal-100-border.activated {
-    background-color: $material-royal-100;
-    color: $material-light-bg-dark-text-primary;
+    background-color: $material-royal-100 !important;
+    color: $material-light-bg-dark-text-primary !important;
 }
 
 .balanced-bg,
@@ -366,8 +366,8 @@ a {
 .button-bar-balanced.activated,
 .bar-balanced.activated,
 .balanced-border.activated {
-    background-color: $material-balanced;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-balanced !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .balanced-900-bg,
@@ -398,8 +398,8 @@ a {
 .button-bar-balanced-900.activated,
 .bar-balanced-900.activated,
 .balanced-900-border.activated {
-    background-color:$material-balanced-900;
-    color: $material-dark-bg-light-text-primary;
+    background-color:$material-balanced-900 !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .balanced-100-bg,
@@ -430,8 +430,8 @@ a {
 .button-bar-balanced-100.activated,
 .bar-balanced-100.activated,
 .balanced-100-border.activated {
-    background-color: $material-balanced-100;
-    color: $material-light-bg-dark-text-primary;
+    background-color: $material-balanced-100 !important;
+    color: $material-light-bg-dark-text-primary !important;
 }
 
 .energized-bg,
@@ -462,8 +462,8 @@ a {
 .button-bar-energized.activated,
 .bar-energized.activated,
 .energized-border.activated {
-    background-color: $material-energized;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-energized !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .energized-900-bg,
@@ -494,8 +494,8 @@ a {
 .button-bar-energized-900.activated,
 .bar-energized-900.activated,
 .energized-900-border.activated {
-    background-color: $material-energized-900;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-energized-900 !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .energized-100-bg,
@@ -526,8 +526,8 @@ a {
 .button-bar-energized-100.activated,
 .bar-energized-100.activated,
 .energized-100-border.activated {
-    background-color: $material-energized-100;
-    color: $material-light-bg-dark-text-primary;
+    background-color: $material-energized-100 !important;
+    color: $material-light-bg-dark-text-primary !important;
 }
 
 .assertive-bg,
@@ -558,8 +558,8 @@ a {
 .button-bar-assertive.activated,
 .bar-assertive.activated,
 .assertive-border.activated {
-    background-color: $material-assertive;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-assertive !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .assertive-900-bg,
@@ -590,8 +590,8 @@ a {
 .button-bar-assertive-900.activated,
 .bar-assertive-900.activated,
 .assertive-900-border.activated {
-    background-color: $material-assertive-900;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-assertive-900 !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 .assertive-100-bg,
@@ -622,8 +622,8 @@ a {
 .button-bar-assertive-100.activated,
 .bar-assertive-100.activated,
 .assertive-100-border.activated {
-    background-color: $material-assertive-100;
-    color: $material-light-bg-dark-text-primary;
+    background-color: $material-assertive-100 !important;
+    color: $material-light-bg-dark-text-primary !important;
 }
 
 .stable-bg,
@@ -654,8 +654,8 @@ a {
 .button-bar-stable.activated,
 .bar-stable.activated,
 .stable-border.activated {
-    background-color: $material-stable;
-    color: $material-light-bg-dark-text-primary;
+    background-color: $material-stable !important;
+    color: $material-light-bg-dark-text-primary !important;
 }
 
 .light-bg,
@@ -686,8 +686,8 @@ a {
 .button-bar-light.activated,
 .bar-light.activated,
 .light-border.activated {
-    background-color: $material-light;
-    color: $material-light-bg-dark-text-primary;
+    background-color: $material-light !important;
+    color: $material-light-bg-dark-text-primary !important;
 }
 
 .dark-bg,
@@ -718,8 +718,8 @@ a {
 .button-bar-dark.activated,
 .bar-dark.activated,
 .dark-border.activated {
-    background-color: $material-dark;
-    color: $material-dark-bg-light-text-primary;
+    background-color: $material-dark !important;
+    color: $material-dark-bg-light-text-primary !important;
 }
 
 
@@ -735,7 +735,7 @@ a {
 .positive:active,
 .positive:active *,
 *.positive:active {
-    color: $material-positive;
+    color: $material-positive !important;
 }
 
 .positive-900,
@@ -747,7 +747,7 @@ a {
 .positive-900:active,
 .positive-900:active *,
 *.positive-900:active {
-    color: $material-positive-900;
+    color: $material-positive-900 !important;
 }
 
 .positive-100,
@@ -759,7 +759,7 @@ a {
 .positive-100:active,
 .positive-100:active *,
 *.positive-100:active {
-    color: $material-positive-100;
+    color: $material-positive-100 !important;
 }
 
 .calm,
@@ -771,7 +771,7 @@ a {
 .calm:active,
 .calm:active *,
 *.calm:active {
-    color: $material-calm;
+    color: $material-calm !important;
 }
 
 .calm-900,
@@ -783,7 +783,7 @@ a {
 .calm-900:active,
 .calm-900:active *,
 *.calm-900:active {
-    color: $material-calm-900;
+    color: $material-calm-900 !important;
 }
 
 .calm-100,
@@ -795,7 +795,7 @@ a {
 .calm-100:active,
 .calm-100:active *,
 *.calm-100:active {
-    color: $material-calm-100;
+    color: $material-calm-100 !important;
 }
 
 .royal,
@@ -807,7 +807,7 @@ a {
 .royal:active,
 .royal:active *,
 *.royal:active {
-    color: $material-royal;
+    color: $material-royal !important;
 }
 
 .royal-900,
@@ -819,7 +819,7 @@ a {
 .royal-900:active,
 .royal-900:active *,
 *.royal-900:active {
-    color: $material-royal-900;
+    color: $material-royal-900 !important;
 }
 
 .royal-100,
@@ -831,7 +831,7 @@ a {
 .royal-100:active,
 .royal-100:active *,
 *.royal-100:active {
-    color: $material-royal-100;
+    color: $material-royal-100 !important;
 }
 
 .balanced,
@@ -843,7 +843,7 @@ a {
 .balanced:active,
 .balanced:active *,
 *.balanced:active {
-    color: $material-balanced;
+    color: $material-balanced !important;
 }
 
 .balanced-900,
@@ -855,7 +855,7 @@ a {
 .balanced-900:active,
 .balanced-900:active *,
 *.balanced-900:active {
-    color: $material-balanced-900;
+    color: $material-balanced-900 !important;
 }
 
 .balanced-100,
@@ -867,7 +867,7 @@ a {
 .balanced-100:active,
 .balanced-100:active *,
 *.balanced-100:active {
-    color: $material-balanced-100;
+    color: $material-balanced-100 !important;
 }
 
 .energized,
@@ -879,7 +879,7 @@ a {
 .energized:active,
 .energized:active *,
 *.energized:active {
-    color:$material-energized;
+    color:$material-energized !important;
 }
 
 .energized-900,
@@ -891,7 +891,7 @@ a {
 .energized-900:active,
 .energized-900:active *,
 *.energized-900:active {
-    color: $material-energized-900;
+    color: $material-energized-900 !important;
 }
 
 .energized-100,
@@ -903,7 +903,7 @@ a {
 .energized-100:active,
 .energized-100:active *,
 *.energized-100:active {
-    color: $material-energized-100;
+    color: $material-energized-100 !important;
 }
 
 .assertive,
@@ -915,7 +915,7 @@ a {
 .assertive:active,
 .assertive:active *,
 *.assertive:active {
-    color: $material-assertive;
+    color: $material-assertive !important;
 }
 
 .assertive-900,
@@ -927,7 +927,7 @@ a {
 .assertive-900:active,
 .assertive-900:active *,
 *.assertive-900:active {
-    color: $material-assertive-900;
+    color: $material-assertive-900 !important;
 }
 
 .assertive-100,
@@ -939,7 +939,7 @@ a {
 .assertive-100:active,
 .assertive-100:active *,
 *.assertive-100:active {
-    color: $material-assertive-100;
+    color: $material-assertive-100 !important;
 }
 
 .stable,
@@ -951,7 +951,7 @@ a {
 .stable:active,
 .stable:active *,
 *.stable:active {
-    color: $material-stable;
+    color: $material-stable !important;
 }
 
 .light,
@@ -963,7 +963,7 @@ a {
 .light:active,
 .light:active *,
 *.light:active {
-    color: $material-light;
+    color: $material-light !important;
 }
 
 .dark,
@@ -975,7 +975,7 @@ a {
 .dark:active,
 .dark:active *,
 *.dark:active {
-    color: $material-dark;
+    color: $material-dark !important;
 }
 
 /* Various

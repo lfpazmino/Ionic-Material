@@ -2128,8 +2128,8 @@ a {
 .button-bar-positive.activated,
 .bar-positive.activated,
 .positive-border.activated {
-  background-color: #3F51B5;
-  color: white; }
+  background-color: #3F51B5 !important;
+  color: white !important; }
 
 .positive-900-bg,
 .button-positive-900,
@@ -2159,8 +2159,8 @@ a {
 .button-bar-positive-900.activated,
 .bar-positive-900.activated,
 .positive-900-border.activated {
-  background-color: #1A237E;
-  color: white; }
+  background-color: #1A237E !important;
+  color: white !important; }
 
 .positive-100-bg,
 .button-positive-100,
@@ -2190,8 +2190,8 @@ a {
 .button-bar-positive-100.activated,
 .bar-positive-100.activated,
 .positive-100-border.activated {
-  background-color: #C5CAE9;
-  color: rgba(0, 0, 0, 0.87); }
+  background-color: #C5CAE9 !important;
+  color: rgba(0, 0, 0, 0.87) !important; }
 
 .calm-bg,
 .button-calm,
@@ -2221,8 +2221,8 @@ a {
 .button-bar-calm.activated,
 .bar-calm.activated,
 .calm-border.activated {
-  background-color: #2196F3;
-  color: white; }
+  background-color: #2196F3 !important;
+  color: white !important; }
 
 .calm-900-bg,
 .button-calm-900,
@@ -2252,8 +2252,8 @@ a {
 .button-bar-calm-900.activated,
 .bar-calm-900.activated,
 .calm-900-border.activated {
-  background-color: #0D47A1;
-  color: white; }
+  background-color: #0D47A1 !important;
+  color: white !important; }
 
 .calm-100-bg,
 .button-calm-100,
@@ -2283,8 +2283,8 @@ a {
 .button-bar-calm-100.activated,
 .bar-calm-100.activated,
 .calm-100-border.activated {
-  background-color: #BBDEFB;
-  color: white; }
+  background-color: #BBDEFB !important;
+  color: white !important; }
 
 .royal-bg,
 .button-royal,
@@ -2314,8 +2314,8 @@ a {
 .button-bar-royal.activated,
 .bar-royal.activated,
 .royal-border.activated {
-  background-color: #673AB7;
-  color: white; }
+  background-color: #673AB7 !important;
+  color: white !important; }
 
 .royal-900-bg,
 .button-royal-900,
@@ -2345,8 +2345,8 @@ a {
 .button-bar-royal-900.activated,
 .bar-royal-900.activated,
 .royal-900-border.activated {
-  background-color: #311B92;
-  color: white; }
+  background-color: #311B92 !important;
+  color: white !important; }
 
 .royal-100-bg,
 .button-royal-100,
@@ -2376,8 +2376,8 @@ a {
 .button-bar-royal-100.activated,
 .bar-royal-100.activated,
 .royal-100-border.activated {
-  background-color: #D1C4E9;
-  color: rgba(0, 0, 0, 0.87); }
+  background-color: #D1C4E9 !important;
+  color: rgba(0, 0, 0, 0.87) !important; }
 
 .balanced-bg,
 .button-balanced,
@@ -2407,8 +2407,8 @@ a {
 .button-bar-balanced.activated,
 .bar-balanced.activated,
 .balanced-border.activated {
-  background-color: #4CAF50;
-  color: white; }
+  background-color: #4CAF50 !important;
+  color: white !important; }
 
 .balanced-900-bg,
 .button-balanced-900,
@@ -2438,8 +2438,8 @@ a {
 .button-bar-balanced-900.activated,
 .bar-balanced-900.activated,
 .balanced-900-border.activated {
-  background-color: #1B5E20;
-  color: white; }
+  background-color: #1B5E20 !important;
+  color: white !important; }
 
 .balanced-100-bg,
 .button-balanced-100,
@@ -2469,8 +2469,8 @@ a {
 .button-bar-balanced-100.activated,
 .bar-balanced-100.activated,
 .balanced-100-border.activated {
-  background-color: #C8E6C9;
-  color: rgba(0, 0, 0, 0.87); }
+  background-color: #C8E6C9 !important;
+  color: rgba(0, 0, 0, 0.87) !important; }
 
 .energized-bg,
 .button-energized,
@@ -2500,8 +2500,8 @@ a {
 .button-bar-energized.activated,
 .bar-energized.activated,
 .energized-border.activated {
-  background-color: #FF9800;
-  color: white; }
+  background-color: #FF9800 !important;
+  color: white !important; }
 
 .energized-900-bg,
 .button-energized-900,
@@ -2531,8 +2531,8 @@ a {
 .button-bar-energized-900.activated,
 .bar-energized-900.activated,
 .energized-900-border.activated {
-  background-color: #E65100;
-  color: white; }
+  background-color: #E65100 !important;
+  color: white !important; }
 
 .energized-100-bg,
 .button-energized-100,
@@ -2562,8 +2562,8 @@ a {
 .button-bar-energized-100.activated,
 .bar-energized-100.activated,
 .energized-100-border.activated {
-  background-color: #FFE0B2;
-  color: rgba(0, 0, 0, 0.87); }
+  background-color: #FFE0B2 !important;
+  color: rgba(0, 0, 0, 0.87) !important; }
 
 .assertive-bg,
 .button-assertive,
@@ -2593,8 +2593,8 @@ a {
 .button-bar-assertive.activated,
 .bar-assertive.activated,
 .assertive-border.activated {
-  background-color: #F44336;
-  color: white; }
+  background-color: #F44336 !important;
+  color: white !important; }
 
 .assertive-900-bg,
 .button-assertive-900,
@@ -2624,8 +2624,8 @@ a {
 .button-bar-assertive-900.activated,
 .bar-assertive-900.activated,
 .assertive-900-border.activated {
-  background-color: #B71C1C;
-  color: white; }
+  background-color: #B71C1C !important;
+  color: white !important; }
 
 .assertive-100-bg,
 .button-assertive-100,
@@ -2655,8 +2655,8 @@ a {
 .button-bar-assertive-100.activated,
 .bar-assertive-100.activated,
 .assertive-100-border.activated {
-  background-color: #FFCDD2;
-  color: rgba(0, 0, 0, 0.87); }
+  background-color: #FFCDD2 !important;
+  color: rgba(0, 0, 0, 0.87) !important; }
 
 .stable-bg,
 .button-stable,
@@ -2686,8 +2686,8 @@ a {
 .button-bar-stable.activated,
 .bar-stable.activated,
 .stable-border.activated {
-  background-color: #E0E0E0;
-  color: rgba(0, 0, 0, 0.87); }
+  background-color: #E0E0E0 !important;
+  color: rgba(0, 0, 0, 0.87) !important; }
 
 .light-bg,
 .button-light,
@@ -2717,8 +2717,8 @@ a {
 .button-bar-light.activated,
 .bar-light.activated,
 .light-border.activated {
-  background-color: #ffffff;
-  color: rgba(0, 0, 0, 0.87); }
+  background-color: #ffffff !important;
+  color: rgba(0, 0, 0, 0.87) !important; }
 
 .dark-bg,
 .button-dark,
@@ -2748,8 +2748,8 @@ a {
 .button-bar-dark.activated,
 .bar-dark.activated,
 .dark-border.activated {
-  background-color: #444444;
-  color: white; }
+  background-color: #444444 !important;
+  color: white !important; }
 
 /* Text Colors
 ==================================*/
@@ -2762,7 +2762,7 @@ a {
 .positive:active,
 .positive:active *,
 *.positive:active {
-  color: #3F51B5; }
+  color: #3F51B5 !important; }
 
 .positive-900,
 .positive-900 *,
@@ -2773,7 +2773,7 @@ a {
 .positive-900:active,
 .positive-900:active *,
 *.positive-900:active {
-  color: #1A237E; }
+  color: #1A237E !important; }
 
 .positive-100,
 .positive-100 *,
@@ -2784,7 +2784,7 @@ a {
 .positive-100:active,
 .positive-100:active *,
 *.positive-100:active {
-  color: #C5CAE9; }
+  color: #C5CAE9 !important; }
 
 .calm,
 .calm *,
@@ -2795,7 +2795,7 @@ a {
 .calm:active,
 .calm:active *,
 *.calm:active {
-  color: #2196F3; }
+  color: #2196F3 !important; }
 
 .calm-900,
 .calm-900 *,
@@ -2806,7 +2806,7 @@ a {
 .calm-900:active,
 .calm-900:active *,
 *.calm-900:active {
-  color: #0D47A1; }
+  color: #0D47A1 !important; }
 
 .calm-100,
 .calm-100 *,
@@ -2817,7 +2817,7 @@ a {
 .calm-100:active,
 .calm-100:active *,
 *.calm-100:active {
-  color: #BBDEFB; }
+  color: #BBDEFB !important; }
 
 .royal,
 .royal *,
@@ -2828,7 +2828,7 @@ a {
 .royal:active,
 .royal:active *,
 *.royal:active {
-  color: #673AB7; }
+  color: #673AB7 !important; }
 
 .royal-900,
 .royal-900 *,
@@ -2839,7 +2839,7 @@ a {
 .royal-900:active,
 .royal-900:active *,
 *.royal-900:active {
-  color: #311B92; }
+  color: #311B92 !important; }
 
 .royal-100,
 .royal-100 *,
@@ -2850,7 +2850,7 @@ a {
 .royal-100:active,
 .royal-100:active *,
 *.royal-100:active {
-  color: #D1C4E9; }
+  color: #D1C4E9 !important; }
 
 .balanced,
 .balanced *,
@@ -2861,7 +2861,7 @@ a {
 .balanced:active,
 .balanced:active *,
 *.balanced:active {
-  color: #4CAF50; }
+  color: #4CAF50 !important; }
 
 .balanced-900,
 .balanced-900 *,
@@ -2872,7 +2872,7 @@ a {
 .balanced-900:active,
 .balanced-900:active *,
 *.balanced-900:active {
-  color: #1B5E20; }
+  color: #1B5E20 !important; }
 
 .balanced-100,
 .balanced-100 *,
@@ -2883,7 +2883,7 @@ a {
 .balanced-100:active,
 .balanced-100:active *,
 *.balanced-100:active {
-  color: #C8E6C9; }
+  color: #C8E6C9 !important; }
 
 .energized,
 .energized *,
@@ -2894,7 +2894,7 @@ a {
 .energized:active,
 .energized:active *,
 *.energized:active {
-  color: #FF9800; }
+  color: #FF9800 !important; }
 
 .energized-900,
 .energized-900 *,
@@ -2905,7 +2905,7 @@ a {
 .energized-900:active,
 .energized-900:active *,
 *.energized-900:active {
-  color: #E65100; }
+  color: #E65100 !important; }
 
 .energized-100,
 .energized-100 *,
@@ -2916,7 +2916,7 @@ a {
 .energized-100:active,
 .energized-100:active *,
 *.energized-100:active {
-  color: #FFE0B2; }
+  color: #FFE0B2 !important; }
 
 .assertive,
 .assertive *,
@@ -2927,7 +2927,7 @@ a {
 .assertive:active,
 .assertive:active *,
 *.assertive:active {
-  color: #F44336; }
+  color: #F44336 !important; }
 
 .assertive-900,
 .assertive-900 *,
@@ -2938,7 +2938,7 @@ a {
 .assertive-900:active,
 .assertive-900:active *,
 *.assertive-900:active {
-  color: #B71C1C; }
+  color: #B71C1C !important; }
 
 .assertive-100,
 .assertive-100 *,
@@ -2949,7 +2949,7 @@ a {
 .assertive-100:active,
 .assertive-100:active *,
 *.assertive-100:active {
-  color: #FFCDD2; }
+  color: #FFCDD2 !important; }
 
 .stable,
 .stable *,
@@ -2960,7 +2960,7 @@ a {
 .stable:active,
 .stable:active *,
 *.stable:active {
-  color: #E0E0E0; }
+  color: #E0E0E0 !important; }
 
 .light,
 .light *,
@@ -2971,7 +2971,7 @@ a {
 .light:active,
 .light:active *,
 *.light:active {
-  color: #ffffff; }
+  color: #ffffff !important; }
 
 .dark,
 .dark *,
@@ -2982,7 +2982,7 @@ a {
 .dark:active,
 .dark:active *,
 *.dark:active {
-  color: #444444; }
+  color: #444444 !important; }
 
 /* Various
 ==========*/

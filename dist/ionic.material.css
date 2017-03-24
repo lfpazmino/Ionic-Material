@@ -3038,6 +3038,10 @@ a {
 .item-radio .item-content {
   background-color: transparent; }
 
+.item-radio input:checked + .radio-content .item-content {
+  /* style the item content when its checked */
+  background: initial; }
+
 .dark-bg h2,
 .item.dark-bg h2 {
   color: #fff; }

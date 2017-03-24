@@ -1,0 +1,12 @@
+.item.item-radio .radio-icon {
+  opacity: 1;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.item.item-radio:active .radio-icon {
+  opacity: 0;
+  transform: scale(1.6);
+  -webkit-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}

@@ -162,16 +162,13 @@
     width: 100%;
 }
 .item.item-divider {
-    &:first-child {
-        border: none;
-    }
-    border-top: solid 1px rgba(0, 0, 0, 0.12);
+    border-bottom: solid 1px rgb(65, 65, 65);
     font-size: $material-base-font-size;
     font-weight: bold;
     height: 48px;
     line-height: 48px;
-    color: $material-light-bg-dark-text-secondary;
-    // padding-bottom: 2px;
+    //color: $material-light-bg-dark-text-secondary;
+    padding-bottom: 2px;
 }
 .item-avatar,
 .item-avatar .item-content,

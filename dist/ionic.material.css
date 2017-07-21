@@ -9565,13 +9565,11 @@ a {
 .card > .item-avatar {
   padding-left: 95px; }
 
-/**
 .item,
 .item-complex .item-content,
 .item-radio .item-content {
-  background-color: transparent;
-}
-**/
+  background-color: transparent; }
+
 .item-radio input:checked + .radio-content .item-content {
   /* style the item content when its checked */
   background: initial; }

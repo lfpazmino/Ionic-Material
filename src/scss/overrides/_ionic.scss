@@ -51,7 +51,9 @@ a {
 ==================================*/
 
 .positive-bg
-  h1 h2 h3 h4 h5 h6 ul li div span p,
+.positive-bg > h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .positive-bg,
 .button-positive,
 .bar .button-positive,
 .header-positive,
@@ -83,6 +85,9 @@ a {
   color: $material-dark-bg-light-text-primary;
 }
 .positive-900-bg,
+.positive-900-bg > h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .positive-900-bg,
 .button-positive-900,
 .bar .button-positive-900,
 .header-positive-900,
@@ -114,6 +119,9 @@ a {
   color: $material-dark-bg-light-text-primary;
 }
 .positive-100-bg,
+  h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .positive-100-bg,
 .button-positive-100,
 .bar .button-positive-100,
 .header-positive-100,
@@ -144,7 +152,11 @@ a {
   background-color: $material-positive-100;
   color: $material-light-bg-dark-text-primary;
 }
+
 .calm-bg,
+  h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .calm-bg,
 .button-calm,
 .bar .button-calm,
 .header-calm,
@@ -175,7 +187,11 @@ a {
   background-color: $material-calm;
   color: $material-dark-bg-light-text-primary;
 }
+
 .calm-900-bg,
+  h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .calm-900-bg,
 .button-calm-900,
 .bar .button-calm-900,
 .header-calm-900,
@@ -206,7 +222,11 @@ a {
   background-color: $material-calm-900;
   color: $material-dark-bg-light-text-primary;
 }
+
 .calm-100-bg,
+.calm-100-bg > h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .calm-100-bg,
 .button-calm-100,
 .bar .button-calm-100,
 .header-calm-100,
@@ -237,7 +257,11 @@ a {
   background-color: $material-calm-100;
   color: $material-dark-bg-light-text-primary;
 }
+
 .royal-bg,
+  h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .royal-bg,
 .button-royal,
 .bar .button-royal,
 .header-royal,
@@ -268,7 +292,11 @@ a {
   background-color: $material-royal;
   color: $material-dark-bg-light-text-primary;
 }
+
 .royal-900-bg,
+  h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .royal-900-bg,
 .button-royal-900,
 .bar .button-royal-900,
 .header-royal-900,
@@ -299,7 +327,11 @@ a {
   background-color: $material-royal-900;
   color: $material-dark-bg-light-text-primary;
 }
+
 .royal-100-bg,
+  h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .royal-100-bg,
 .button-royal-100,
 .bar .button-royal-100,
 .header-royal-100,
@@ -330,7 +362,11 @@ a {
   background-color: $material-royal-100;
   color: $material-light-bg-dark-text-primary;
 }
+
 .balanced-bg,
+  h1 h2 h3 h4 h5 h6 ul li div span p,
+
+.item .balanced-bg,
 .button-balanced,
 .bar .button-balanced,
 .header-balanced,

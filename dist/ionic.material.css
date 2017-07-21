@@ -2111,7 +2111,8 @@ a {
 /* Background Colors
 ==================================*/
 .positive-bg
-h1 h2 h3 h4 h5 h6 ul li div span p,
+.positive-bg > h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .positive-bg,
 .button-positive,
 .bar .button-positive,
 .header-positive,
@@ -2143,6 +2144,8 @@ h1 h2 h3 h4 h5 h6 ul li div span p,
   color: white; }
 
 .positive-900-bg,
+.positive-900-bg > h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .positive-900-bg,
 .button-positive-900,
 .bar .button-positive-900,
 .header-positive-900,
@@ -2174,6 +2177,8 @@ h1 h2 h3 h4 h5 h6 ul li div span p,
   color: white; }
 
 .positive-100-bg,
+h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .positive-100-bg,
 .button-positive-100,
 .bar .button-positive-100,
 .header-positive-100,
@@ -2205,6 +2210,8 @@ h1 h2 h3 h4 h5 h6 ul li div span p,
   color: rgba(0, 0, 0, 0.87); }
 
 .calm-bg,
+h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .calm-bg,
 .button-calm,
 .bar .button-calm,
 .header-calm,
@@ -2236,6 +2243,8 @@ h1 h2 h3 h4 h5 h6 ul li div span p,
   color: white; }
 
 .calm-900-bg,
+h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .calm-900-bg,
 .button-calm-900,
 .bar .button-calm-900,
 .header-calm-900,
@@ -2267,6 +2276,8 @@ h1 h2 h3 h4 h5 h6 ul li div span p,
   color: white; }
 
 .calm-100-bg,
+.calm-100-bg > h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .calm-100-bg,
 .button-calm-100,
 .bar .button-calm-100,
 .header-calm-100,
@@ -2298,6 +2309,8 @@ h1 h2 h3 h4 h5 h6 ul li div span p,
   color: white; }
 
 .royal-bg,
+h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .royal-bg,
 .button-royal,
 .bar .button-royal,
 .header-royal,
@@ -2329,6 +2342,8 @@ h1 h2 h3 h4 h5 h6 ul li div span p,
   color: white; }
 
 .royal-900-bg,
+h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .royal-900-bg,
 .button-royal-900,
 .bar .button-royal-900,
 .header-royal-900,
@@ -2360,6 +2375,8 @@ h1 h2 h3 h4 h5 h6 ul li div span p,
   color: white; }
 
 .royal-100-bg,
+h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .royal-100-bg,
 .button-royal-100,
 .bar .button-royal-100,
 .header-royal-100,
@@ -2391,6 +2408,8 @@ h1 h2 h3 h4 h5 h6 ul li div span p,
   color: rgba(0, 0, 0, 0.87); }
 
 .balanced-bg,
+h1 h2 h3 h4 h5 h6 ul li div span p,
+.item .balanced-bg,
 .button-balanced,
 .bar .button-balanced,
 .header-balanced,

@@ -11,6 +11,8 @@ const sourcemaps  = require('gulp-sourcemaps');
 const gulpWebpack = require('gulp-webpack');
 const webpack     = require('webpack');
 
+var browserSync = require('browser-sync').create();
+
 var connect       = require('gulp-connect');
 
 const distPath = './dist/';
@@ -84,10 +86,18 @@ gulp.task('styles', function () {
     return scss;
 });
 
+gulp.task('server', ['watch'], function () {
+  // Serve files from the root of this project
+  browserSync.init({
+    server: ["./", "./sandbox/"]
+  });
+
+});
+
 gulp.task('watch', function () {
     livereload.listen();
     gulp.watch(['./*.js', '!./src/js/'], ['webpack']);
-    gulp.watch('./*.scss', ['styles']);
+    gulp.watch('./**/*.scss', ['styles', browserSync.reload]);
 });
 
 gulp.task('build', function () {
@@ -95,4 +105,4 @@ gulp.task('build', function () {
     return gulp.start(['webpack', 'styles']);
 })
 
-gulp.task('default', ['webpack', 'styles', 'watch'], function () {});
+gulp.task('default', ['webpack', 'styles', 'server'], function () {});
